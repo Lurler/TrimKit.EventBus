@@ -89,6 +89,15 @@ During event dispatch, handlers are called using a snapshot copy, so you can saf
 
 ## Changes
  - v1.0 - Initial release.
+ 
+## TrimKit Collection
+This library is part of the **TrimKit** collection - a set of small, focused C# libraries that make game development more enjoyable by reducing the need for boilerplate code and providing simple reusable building blocks that can be dropped into any project.
+
+- [TrimKit.EventBus](https://github.com/Lurler/TrimKit.EventBus) - Lightweight, mutation-safe event bus (event aggregator).
+- [TrimKit.GameSettings](https://github.com/Lurler/TrimKit.GameSettings) - JSON-based persistent settings manager.
+- [TrimKit.VirtualFileSystem](https://github.com/Lurler/TrimKit.VirtualFileSystem) - Unified file hierarchy abstraction to enable modding and additional content in games.
+
+Each module is independent and can be used standalone or combined with others for a complete lightweight foundation.
 
 ## Contribution
 Contributions are welcome!
@@ -96,4 +105,4 @@ Contributions are welcome!
 You can start with submitting an [issue on GitHub](https://github.com/Lurler/TrimKit.EventBus/issues).
 
 ## License
-**Virtual File System** is released under the [MIT License](../master/LICENSE).
+This library is released under the [MIT License](../master/LICENSE).
