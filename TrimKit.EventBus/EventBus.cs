@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading;
 
-namespace Simple.EventBus;
+namespace TrimKit.EventBus;
 
 /// <summary>
 /// Simple event bus (aka event aggregator) for games.

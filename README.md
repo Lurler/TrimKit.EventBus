@@ -88,6 +88,7 @@ During event dispatch, handlers are called using a snapshot copy, so you can saf
 | `void Reset()`                                          | Remove all subscriptions.                    |
 
 ## Changes
+ - v1.0.1 - Fixed namespaces.
  - v1.0 - Initial release.
  
 ## TrimKit Collection

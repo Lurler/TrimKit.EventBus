@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Simple.EventBus;
+namespace TrimKit.EventBus;
 
 /// <summary>
 /// Interface that allows only publishing new events.

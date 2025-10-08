@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>TrimKit.EventBus</Title>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Lurler</Authors>
     <Description>Lightweight, thread-safe C# event bus (event aggregator) for games and apps. Designed for simplicity, ease of use and robustness. </Description>
     <PackageProjectUrl>https://github.com/Lurler/TrimKit.EventBus</PackageProjectUrl>

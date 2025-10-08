@@ -1,4 +1,4 @@
-﻿using Simple.EventBus;
+﻿using TrimKit.EventBus;
 
 namespace EventBusTest;
 
